@@ -1,6 +1,6 @@
-# ~~yet another~~ Pyrogram String Session Maker
+# Pyrogram String Session Maker
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a4ef83e3a64a92b24d855aaed05c3a)](https://www.codacy.com/gh/SpEcHIDe/SessionMakerBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SpEcHIDe/SessionMakerBot&amp;utm_campaign=Badge_Grade) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SpEcHIDe/SessionMakerBot) ![Repo Size](https://img.shields.io/github/repo-size/SpEcHIDe/SessionMakerBot)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a4ef83e3a64a92b24d855aaed05c3a)](https://www.codacy.com/gh/vishnu175/sessionstringbot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vishnu175/sessionstringbot&amp;utm_campaign=Badge_Grade) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vishnu175/sessionstringbot) ![Repo Size](https://img.shields.io/github/repo-size/vishnu175/sessionstringbot)
 
 
 ### Setup
