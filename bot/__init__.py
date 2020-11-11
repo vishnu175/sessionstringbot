@@ -103,7 +103,7 @@ ALREADY_REGISTERED_PHONE = get_config("ALREADY_REGISTERED_PHONE", (
     "This number is registered on Telegram. "
     "Please input the verification code that you receive "
     "from <a href='tg://user?id=777000'>Telegram</a> "
-    "seperated by space, "
+    "seperated by space eg if otp is 4567 then type 4 5 6 7, "
     "else a PhoneCodeInvalidError would be raised."
 ))
 CONFIRM_SENT_VIA = get_config("CONFIRM_SENT_VIA", (
